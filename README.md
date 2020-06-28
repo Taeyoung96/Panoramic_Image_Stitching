@@ -1,7 +1,9 @@
 2020 영상처리 시스템 설계 과제입니다.
 
 운영체제 : Window 10
+
 개발 언어 : c++
+
 개발 환경 : Qt version – 5.7.1
             Qt Creator version – 4.2.0
             MinGW 5.3.0 32bit
