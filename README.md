@@ -4,7 +4,10 @@
 
 개발 언어 : c++
 
-개발 환경 : Qt version – 5.7.1
+개발 환경 : 
+          
+            Qt version – 5.7.1
+                     
             Qt Creator version – 4.2.0
             
             MinGW 5.3.0 32bit
